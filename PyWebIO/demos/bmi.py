@@ -4,7 +4,7 @@ BMI calculation
 
 Simple application for calculating `Body Mass Index <https://en.wikipedia.org/wiki/Body_mass_index>`_
 
-:demo_host:`Demo </bmi-test>`, `Source code <https://github.com/CanthyWang/file_compare/edit/main/PyWebIO/demos/bmi.py>`_
+:demo_host:`Demo </bmi>`, `Source code <https://github.com/CanthyWang/file_compare/edit/main/PyWebIO/demos/bmi.py>`_
 """
 from pywebio import start_server
 from pywebio.input import *
