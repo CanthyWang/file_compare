@@ -123,7 +123,7 @@ if __name__ == "__main__":
 
     application = tornado.web.Application([
         (r"/", webio_handler(index, cdn=False)),
-        (r"/bmi", webio_handler(bmi, cdn=False)),
+        (r"/bmi-test", webio_handler(bmi, cdn=False)),
         (r"/chat_room", webio_handler(chat_room, cdn=False)),
         (r"/input_usage", webio_handler(input_usage, cdn=False)),
         (r"/output_usage", webio_handler(output_usage, cdn=False)),
