@@ -1,0 +1,26 @@
+tornado>=5.0
+user-agents
+
+# extra support
+flask
+django
+aiohttp
+starlette
+uvicorn[standard]
+aiofiles
+bokeh
+pandas
+cutecharts
+pyecharts
+plotly
+Pillow
+
+# test requirements
+selenium==3.*
+percy-python-selenium==0.1.3
+coverage
+
+# doc building requirements
+sphinx==3.*
+sphinx-tabs
+sphinx-rtd-theme==0.4.*
