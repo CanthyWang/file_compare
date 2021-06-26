@@ -2,7 +2,7 @@
 BMI calculation
 ^^^^^^^^^^^^^^^
 
-:demo_host:`Demo </filecompare>`, `Source code <localhost://C://Users//WX//Desktop//比对样例//demos//filecompare.py>`_
+:demo_host:`Demo </filecompare>`, `Source code <https://github.com/CanthyWang/file_compare/blob/main/filecompare.py>`_
 """
 
 from pywebio import start_server
